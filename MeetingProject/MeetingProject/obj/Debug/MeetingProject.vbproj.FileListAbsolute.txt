@@ -1,0 +1,8 @@
+D:\VB.NET\MeetingProject\MeetingProject\bin\MeetingProject.dll
+D:\VB.NET\MeetingProject\MeetingProject\bin\MeetingProject.pdb
+D:\VB.NET\MeetingProject\MeetingProject\bin\MeetingProject.xml
+D:\VB.NET\MeetingProject\MeetingProject\obj\Debug\MeetingProject.Resources.resources
+D:\VB.NET\MeetingProject\MeetingProject\obj\Debug\MeetingProject.vbproj.GenerateResource.Cache
+D:\VB.NET\MeetingProject\MeetingProject\obj\Debug\MeetingProject.dll
+D:\VB.NET\MeetingProject\MeetingProject\obj\Debug\MeetingProject.xml
+D:\VB.NET\MeetingProject\MeetingProject\obj\Debug\MeetingProject.pdb
